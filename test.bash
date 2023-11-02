@@ -9,7 +9,6 @@ ng () {
 
 res=0
 
-
 out=$(seq 5 | ./plus)
 [ "${out}" = 15.0 ]  || ng ${LINENO}
 
