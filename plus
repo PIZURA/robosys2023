@@ -1,13 +1,16 @@
 #!/usr/bin/python3
+<<<<<<< HEAD:plus
 # SPDX-FileCopyrightTewt: 2023 Yamaguchi Atsushi
 # SPDX-License-Identifier: BSD-3-Clause
+=======
+# SPDX-FileCopyrightText: 2023 Yamaguchi Atsushi
+# SPDX-Licence-Identifiler: BSD-3-Clause
+
+>>>>>>> ca86eb85b521ab1527761100ee70b7db2b8fc629:plus_stdin
 import sys
 
-ans = 0   #もともと0.0だったのを0に変更
-for line in sys.stdin:
-    try: 
-        ans += int(line)   #intは文字列を整数に（失敗すると例外発生）
-    except:
+ans = 0.0
+for line in sys.stdin
         ans += float(line)
 
 print(ans)
