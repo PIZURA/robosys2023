@@ -4,12 +4,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-<<<<<<< HEAD
     - users: actions/checkout@v3
     - name: All test
     run: bash -xv ./test.bash
-=======
-    - uses: actions/checkout@v3
-    - name: All test
-      run: bash -xv ./test.bash
->>>>>>> ca86eb85b521ab1527761100ee70b7db2b8fc629
