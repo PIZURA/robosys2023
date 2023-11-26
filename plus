@@ -1,13 +1,11 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightTewt: 2023 Yamaguchi Atsushi
 # SPDX-License-Identifier: BSD-3-Clause
-# SPDX-FileCopyrightText: 2023 Yamaguchi Atsushi
-# SPDX-Licence-Identifiler: BSD-3-Clause
 
 import sys
 
 ans = 0.0
-for line in sys.stdin
+for line in sys.stdin:
         ans += float(line)
 
 print(ans)
