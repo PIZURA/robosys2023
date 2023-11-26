@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightTewt: 2023 Yamaguchi Atsushi
+# SPDX-FileCopyrightText: 2023 Yamaguchi Atsushi
 # SPDX-License-Identifier: BSD-3-Clause
 
 import sys
