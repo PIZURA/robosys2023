@@ -2,8 +2,8 @@ name: test
 on: push
 jobs:
   test:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-20.04A
     steps:
     - users: actions/checkout@v3
     - name: All test
-    run: bash -xv ./test.bash
+      run: bash -xv ./test.bash
