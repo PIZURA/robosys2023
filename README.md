@@ -25,7 +25,7 @@ $ seq 3 | ./plus
 python [ version 3.7 ~ 3.10まではテスト済み ]
 
 ## Development Environment
-*ubuntu 20.04
+ubuntu 20.04 on Windows11
 
 ## License
 *このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
