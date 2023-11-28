@@ -6,15 +6,25 @@
 標準入力から読み込んだ数字を足すことが出来ます。
 
 ## Install
-
+以下を上順からコピーしください。
+```
+$ git clone git@github.com:PIZURA/robosys2023.git
+```
+```
+$ cd robosys2023
 ```
 
+## Treatment
 ```
+$ seq 3 | ./plus
+6.0
+```
+この場合、1~3までの数字をplusに読み込ませ、全ての数字を足した6.0が出力されるようになっています。
 
-## テスト環境
-pythonバージョン [ 3.7 ~ 3.10 ]
+## Testing Environment
+python [ version 3.7 ~ 3.10まではテスト済み ]
 
-## 開発環境
+## Development Environment
 *ubuntu 20.04
 
 ## License
