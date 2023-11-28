@@ -6,7 +6,7 @@
 標準入力から読み込んだ数字を足すことが出来ます。
 
 ## Install
-以下を上順からコピーしください。
+以下を上順からコピーしてください。
 ```
 $ git clone git@github.com:PIZURA/robosys2023.git
 ```
@@ -29,4 +29,6 @@ python [ version 3.7 ~ 3.10まではテスト済み ]
 
 ## License
 *このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
-*© 2023 Yamaguchi Atsushi
+*このプログラムは下記のスライドを本人の許可を得て自身の著者としたものです。
+*(https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/10)
+*@2023 Yamaguchi Atsushi
