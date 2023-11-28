@@ -29,6 +29,9 @@ python [ version 3.7 ~ 3.10まではテスト済み ]
 
 ## License
 *このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
+
 *このプログラムは下記のスライドを本人の許可を得て自身の著者としたものです。
+
 *(https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/10)
+
 *@2023 Yamaguchi Atsushi
