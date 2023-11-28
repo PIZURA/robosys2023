@@ -17,7 +17,7 @@ $ cd robosys2023
 ## Treatment
 ```
 $ seq 3 | ./plus
-6.0
+6
 ```
 この場合、1~3までの数字をplusに読み込ませ、全ての数字を足した6.0が出力されるようになっています。
 
@@ -32,6 +32,8 @@ ubuntu 20.04 on Windows11
 
 *このプログラムは下記のスライドを本人の許可を得て自身の著者としたものです。
 
-*(https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/10)
+*(https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/20)
+
+*なお、スライドでのディレクトリ名がplus_stdinとなっていますが、GitHub上のディレクトリ名にあるplusが同じになります。
 
 *@2023 Yamaguchi Atsushi
