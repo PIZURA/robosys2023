@@ -32,7 +32,7 @@ python [ version 3.7 ~ 3.10まではテスト済み ]
 
 
 # Development Environment
-ubuntu 20.04 on Windows11
+ubuntu 20.04
 
 
 # License
